@@ -1,7 +1,4 @@
-﻿
-using System;
-
-namespace JP_lab_1.Classes;
+﻿namespace JP_lab_1.Classes;
 
 public class Punkt2D
 {
